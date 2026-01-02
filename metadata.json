@@ -1,0 +1,7 @@
+{
+  "name": "Ecura Connect Multi-Vendor Clinic System",
+  "description": "A comprehensive multi-vendor clinic management platform featuring an AI-powered WhatsApp-style booking assistant and a robust admin dashboard for healthcare providers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
